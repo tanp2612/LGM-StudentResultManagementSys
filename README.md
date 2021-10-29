@@ -1,1 +1,1 @@
-# LGM-StudentResultManagementSys
+# LGM-StudentResultManagementSys :Managemnt is the art of getting things done through ppl. The first step to develop dynamic software system is we need to use database server to store the records permanently. Here, we use SQL Server database to keep the data. Conventionally this system is done using papers, files, and binders.
